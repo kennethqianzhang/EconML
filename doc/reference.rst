@@ -120,7 +120,7 @@ Dynamic Double Machine Learning
 .. autosummary::
     :toctree: _autosummary
 
-    econml.dynamic.dml.DynamicDML
+    econml.panel.dml.DynamicDML
 
 .. _policy_api:
 
